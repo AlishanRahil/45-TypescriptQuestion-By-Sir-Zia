@@ -1,4 +1,4 @@
-//  Question 3 //
+//  Question 4 //
 // store quote in variable //
 let quote = "I Have No Special Talent i am only passionate curious";
 let famousperson = "Albert Einstein";
