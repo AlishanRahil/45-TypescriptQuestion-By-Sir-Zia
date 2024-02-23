@@ -1,4 +1,4 @@
-// Question No 2//
+// Question No 3//
 
 let name23 = "Alishan Rahil "
 console.log("Original",name23);
