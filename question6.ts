@@ -1,4 +1,4 @@
-// question no 8 //
+// question no 6 //
 let personNameWithWhitespace = "\t\n   Alishan Rahil  \n\t";
 console.log("With whitespace:", personNameWithWhitespace);
 
