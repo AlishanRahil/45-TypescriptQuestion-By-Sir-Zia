@@ -1,5 +1,5 @@
 // 45 questions //
-// Question No 1//
+// Question No 2//
 // # Store the person's name in a variable
 let names = "Eric";
 
